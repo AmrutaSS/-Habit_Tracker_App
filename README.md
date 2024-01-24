@@ -2,6 +2,9 @@
 
 Habit Tracker React is a web application built with React and Redux for efficiently managing daily and weekly habits.
 
+## Live Hosted Website
+
+Visit [Habit Tracker React](https://habit-tracker-app-gamma.vercel.app/) to access the live version of the application.
 
 ## Getting Started
 
